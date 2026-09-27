@@ -1,6 +1,6 @@
 // Geomersive status page
 const STATUS_URL = "https://status.geomersive.example/api/services.json";
-const REQUEST_TIMEOUT_MS = 5000;
+const REQUEST_TIMEOUT_MS = 500;
 
 async function loadStatus() {
   const controller = new AbortController();
