@@ -1,0 +1,12 @@
+{
+  "name": "geomersive-status-page",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Geomersive service status page",
+  "scripts": {
+    "test": "node scripts/check-site.js --dir site"
+  },
+  "devDependencies": {
+    "minimist": "1.2.5"
+  }
+}
