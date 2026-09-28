@@ -7,6 +7,6 @@
     "test": "node scripts/check-site.js --dir site"
   },
   "devDependencies": {
-    "minimist": "1.2.5"
+    "minimist": "1.2.6"
   }
 }
